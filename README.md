@@ -20,4 +20,10 @@ On the other hand, if what is entered in the search box is a number, it must sea
 
 <img src="Img/app_grid_page_11.jpg" width="75%"  /> <img src="Img/app_grid_palindrome_result.jpg" width="75%"  />
 
-**NOTE: the prices will be upper rounded anytime the discount application doesn't give an exact value**
+**NOTE: the prices will be upper rounded anytime the discount application doesn't give an exact value.**
+
+
+# Technical scheme and architecture of the solution
+
+We'll have three main parts as mentioned at the beggining and they interact according the folowing image:
+
