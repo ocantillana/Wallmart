@@ -25,10 +25,14 @@ On the other hand, if what is entered in the search box is a number, it must sea
 
 # Highligths of technical solution's scheme and architecture
 
-- We'll have three main dockerized parts as mentioned at the beggining, deployed and running on a local machine, and they interact according the folowing image:
+- First we'll have three main dockerized parts as mentioned at the beggining, deployed and running on a local machine, and they interact according the folowing image:
 
 <img src="Img/solution_components.jpg" width="80%"  />
 
-- Regarding "front" component (Angular 11 application), the simple structure of components is shown below:
+- Second, regarding "front" component (Angular 11 application), the simple structure of components is shown below:
 
 <img src="Img/angular_arrange.png" width="80%"  />
+
+- And finally, the REST API built en .NET Core 3.1 has a internal N-Layer architecture to ensure responsability separation and maintainability which follows next diagram's approach:
+
+
