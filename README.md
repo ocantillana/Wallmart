@@ -39,3 +39,7 @@ On the other hand, if what is entered in the search box is a number, it must sea
 
 <img src="Img/solution_tree.jpg" />
 
+
+
+# Unfortunately...
+There where several unknown issues and misbehaviours (such as connection refused/denied problems) with docker desktop in Windows 10 Home Edition to push to Docker Hub containers images, so at this time I cannot complete the requirement part of deploying the three components of the solution on a Heroku App =/
