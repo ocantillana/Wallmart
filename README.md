@@ -37,5 +37,5 @@ On the other hand, if what is entered in the search box is a number, it must sea
 
 <img src="Img/api_approach.png" width="80%"  />
 
-<img src="Img/solution_tree.png" width="80%"  />
+<img src="Img/solution_tree.jpg" width="80%"  />
 
