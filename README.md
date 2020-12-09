@@ -35,4 +35,5 @@ On the other hand, if what is entered in the search box is a number, it must sea
 
 - And finally, the REST API built en .NET Core 3.1 has a internal N-Layer architecture to ensure responsability separation and maintainability which follows next diagram's approach:
 
+<img src="Img/api_approach.png" width="80%"  />
 
