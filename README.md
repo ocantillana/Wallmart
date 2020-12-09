@@ -42,4 +42,4 @@ On the other hand, if what is entered in the search box is a number, it must sea
 
 
 # Unfortunately...
-There where several unknown issues and misbehaviours (such as connection refused/denied problems) with docker desktop in Windows 10 Home Edition to push to Docker Hub containers images, so at this time I cannot complete the requirement part of deploying the three components of the solution on a Heroku App =/
+There where several unknown issues and misbehaviours (such as connection refused/denied problems among many others) with docker desktop in Windows 10 Home Edition to push to Docker Hub containers images, so **for now** I'm not enable to complete the requirement part of deploying the three components of the solution on a Heroku App =/
