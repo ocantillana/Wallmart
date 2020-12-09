@@ -25,5 +25,6 @@ On the other hand, if what is entered in the search box is a number, it must sea
 
 # Technical scheme and architecture of the solution
 
-We'll have three main parts as mentioned at the beggining and they interact according the folowing image:
+We'll have three main dockerized parts as mentioned at the beggining, deployed and running on a local machine, and they interact according the folowing image:
+
 
