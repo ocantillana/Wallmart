@@ -1,0 +1,12 @@
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\bin\Debug\netcoreapp3.1\RetoWallmart.Context.deps.json
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\bin\Debug\netcoreapp3.1\RetoWallmart.Context.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\bin\Debug\netcoreapp3.1\RetoWallmart.Context.pdb
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\bin\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\bin\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.pdb
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\obj\Debug\netcoreapp3.1\RetoWallmart.Context.csprojAssemblyReference.cache
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\obj\Debug\netcoreapp3.1\RetoWallmart.Context.AssemblyInfoInputs.cache
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\obj\Debug\netcoreapp3.1\RetoWallmart.Context.AssemblyInfo.cs
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\obj\Debug\netcoreapp3.1\RetoWallmart.Context.csproj.CoreCompileInputs.cache
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\obj\Debug\netcoreapp3.1\RetoWallmart.Context.csproj.CopyComplete
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\obj\Debug\netcoreapp3.1\RetoWallmart.Context.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.Context\obj\Debug\netcoreapp3.1\RetoWallmart.Context.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>563e235c-ead7-4b2c-99c2-a61914f2d1d2</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RetoWallmart.BusinessActions\RetoWallmart.BusinessActions.csproj" />
+    <ProjectReference Include="..\RetoWallmart.BusinessObjects\RetoWallmart.BusinessObjects.csproj" />
+  </ItemGroup>
+
+
+</Project>

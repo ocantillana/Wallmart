@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.1" />
+    <PackageReference Include="MongoDB.Bson" Version="2.11.5" />
+    <PackageReference Include="MongoDB.Driver.Core" Version="2.11.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RetoWallmart.BusinessObjects\RetoWallmart.BusinessObjects.csproj" />
+    <ProjectReference Include="..\RetoWallmart.Context\RetoWallmart.Context.csproj" />
+  </ItemGroup>
+
+</Project>

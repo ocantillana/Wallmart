@@ -1,0 +1,17 @@
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\snappy32.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\snappy64.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\libzstd.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\RetoWallmart.DataAccess.deps.json
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\RetoWallmart.DataAccess.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\RetoWallmart.DataAccess.pdb
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\RetoWallmart.BusinessObjects.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\RetoWallmart.Context.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\RetoWallmart.BusinessObjects.pdb
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\bin\Release\netcoreapp3.1\RetoWallmart.Context.pdb
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\obj\Release\netcoreapp3.1\RetoWallmart.DataAccess.csprojAssemblyReference.cache
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\obj\Release\netcoreapp3.1\RetoWallmart.DataAccess.AssemblyInfoInputs.cache
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\obj\Release\netcoreapp3.1\RetoWallmart.DataAccess.AssemblyInfo.cs
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\obj\Release\netcoreapp3.1\RetoWallmart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\obj\Release\netcoreapp3.1\RetoWallmart.DataAccess.csproj.CopyComplete
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\obj\Release\netcoreapp3.1\RetoWallmart.DataAccess.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.DataAccess\obj\Release\netcoreapp3.1\RetoWallmart.DataAccess.pdb

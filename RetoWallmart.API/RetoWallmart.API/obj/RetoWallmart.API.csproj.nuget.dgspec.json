@@ -1,0 +1,401 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.API\\RetoWallmart.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.API\\RetoWallmart.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.API\\RetoWallmart.API.csproj",
+        "projectName": "RetoWallmart.API",
+        "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.API\\RetoWallmart.API.csproj",
+        "packagesPath": "C:\\Users\\gtocu\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gtocu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessActions\\RetoWallmart.BusinessActions.csproj": {
+                "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessActions\\RetoWallmart.BusinessActions.csproj"
+              },
+              "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj": {
+                "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessActions\\RetoWallmart.BusinessActions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessActions\\RetoWallmart.BusinessActions.csproj",
+        "projectName": "RetoWallmart.BusinessActions",
+        "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessActions\\RetoWallmart.BusinessActions.csproj",
+        "packagesPath": "C:\\Users\\gtocu\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessActions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gtocu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj": {
+                "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj"
+              },
+              "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.DataAccess\\RetoWallmart.DataAccess.csproj": {
+                "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.DataAccess\\RetoWallmart.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj",
+        "projectName": "RetoWallmart.BusinessObjects",
+        "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\gtocu\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gtocu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.Context\\RetoWallmart.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.Context\\RetoWallmart.Context.csproj",
+        "projectName": "RetoWallmart.Context",
+        "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.Context\\RetoWallmart.Context.csproj",
+        "packagesPath": "C:\\Users\\gtocu\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gtocu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj": {
+                "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.DataAccess\\RetoWallmart.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.DataAccess\\RetoWallmart.DataAccess.csproj",
+        "projectName": "RetoWallmart.DataAccess",
+        "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.DataAccess\\RetoWallmart.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\gtocu\\.nuget\\packages\\",
+        "outputPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gtocu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj": {
+                "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.BusinessObjects\\RetoWallmart.BusinessObjects.csproj"
+              },
+              "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.Context\\RetoWallmart.Context.csproj": {
+                "projectPath": "C:\\Desarrollo\\RetoWallmart.API\\RetoWallmart.Context\\RetoWallmart.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

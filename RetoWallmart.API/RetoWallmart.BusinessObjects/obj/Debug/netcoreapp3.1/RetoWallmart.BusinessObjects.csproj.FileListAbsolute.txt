@@ -1,0 +1,9 @@
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.BusinessObjects\bin\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.deps.json
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.BusinessObjects\bin\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.BusinessObjects\bin\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.pdb
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.BusinessObjects\obj\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.AssemblyInfoInputs.cache
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.BusinessObjects\obj\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.AssemblyInfo.cs
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.BusinessObjects\obj\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.BusinessObjects\obj\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.dll
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.BusinessObjects\obj\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.pdb
+C:\Desarrollo\RetoWallmart.API\RetoWallmart.BusinessObjects\obj\Debug\netcoreapp3.1\RetoWallmart.BusinessObjects.csprojAssemblyReference.cache
